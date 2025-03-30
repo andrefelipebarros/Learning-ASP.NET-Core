@@ -1,0 +1,6 @@
+@conceitos_HostAddress = http://localhost:5064
+
+GET {{conceitos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
